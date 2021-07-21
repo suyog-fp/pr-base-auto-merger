@@ -1,0 +1,1 @@
+# pr-base-auto-merger
